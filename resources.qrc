@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file alias="main.qml">qml/reye/main.qml</file>
+    </qresource>
+</RCC>
